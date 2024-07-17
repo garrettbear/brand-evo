@@ -1,18 +1,20 @@
 {
-  "name": "@metamask/design-tokens",
-  "version": "3.0.0",
-  "description": "Design tokens to be used throughout MetaMask products",
+  "name": "design-tokens-clone",
+  "version": "4.0.0-alpha.0",
+  "description": "Design tokens to be used throughout products",
   "keywords": [
-    "MetaMask",
-    "Ethereum"
+    "design tokens",
+    "UI",
+    "CSS",
+    "styles"
   ],
-  "homepage": "https://github.com/MetaMask/design-tokens#readme",
+  "homepage": "https://github.com/garrettbear/brand-evo#readme",
   "bugs": {
-    "url": "https://github.com/MetaMask/design-tokens/issues"
+    "url": "https://github.com/garrettbear/brand-evo/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/design-tokens.git"
+    "url": "https://github.com/garrettbear/brand-evo.git"
   },
   "license": "MIT",
   "exports": {
